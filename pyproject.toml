@@ -6,10 +6,16 @@ authors = ["clement.l <maple3312936@outlook.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
+pandas = "^2.2.2"
 python = "^3.11"
+python-dotenv = "^1.0.1"
 langchain-core = "^0.2.24"
 langchain = "^0.2.11"
 langchain-community = "^0.2.10"
+langchain-openai = "^0.1.19"
+langchain-anthropic = "^0.1.21"
+langchain-chroma = "^0.1.2"
+langgraph = "^0.1.16"
 
 
 [build-system]
