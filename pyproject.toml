@@ -6,6 +6,7 @@ authors = ["clement.l <maple3312936@outlook.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
+beautifulsoup4 = "^4.12.3"
 pandas = "^2.2.2"
 python = "^3.11"
 python-dotenv = "^1.0.1"
@@ -16,6 +17,8 @@ langchain-openai = "^0.1.19"
 langchain-anthropic = "^0.1.21"
 langchain-chroma = "^0.1.2"
 langgraph = "^0.1.16"
+langchainhub = "^0.1.20"
+
 
 
 [build-system]
