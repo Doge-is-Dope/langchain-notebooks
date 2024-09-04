@@ -7,6 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 beautifulsoup4 = "^4.12.3"
+duckduckgo-search = "^6.2.11"
+matplotlib = "^3.9.2"
 pandas = "^2.2.2"
 python = "^3.11"
 python-dotenv = "^1.0.1"
@@ -19,9 +21,6 @@ langchain-chroma = "^0.1.2"
 langchain-experimental = "^0.0.65"
 langgraph = "^0.1.16"
 langchainhub = "^0.1.20"
-
-
-
 
 [build-system]
 requires = ["poetry-core"]
