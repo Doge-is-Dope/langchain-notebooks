@@ -7,3 +7,4 @@
 
 8. **Multi-Agent Systems**
    8.1 Collaboration
+   8.2 Multi-Agent Supervision
